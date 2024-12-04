@@ -195,7 +195,7 @@ Q1. How does the delivery performance (on-time vs. delayed) affect customer sent
 
 ![Q1Chart](Term2/visuals/Q1Chart.jpeg)
 
-The bar chart for delivery performance shows that "On-Time" deliveries have higher sentiment scores compared to "Delayed" deliveries. This is indication of the on-time deliveries' positive impact on customer satisfaction. Therefore, sellers might want to avoid delays which mostly negatively affect the reviews they get. 
+The bar chart for delivery performance shows that “On-Time” deliveries have higher sentiment scores compared to “Delayed” deliveries. This is indication of the on-time deliveries' positive impact on customer satisfaction. Therefore, sellers might want to avoid delays which mostly negatively affect the reviews they get. 
 
 Q2. Is there a clear seasonal trend in order volume? How to promote off-season sales?
 
@@ -215,6 +215,11 @@ From the bar chart, we can clearly see the differences in order quantities acros
 3. Strategies to Boost Spring Sales
 To increase sales during the spring season, businesses can consider the following strategies:
 - Seasonal Promotions: Offer discounts or promotional activities for spring products to attract consumers. For example, a “Spring Clearance” sale could encourage consumers to purchase seasonal products.
+
+
+
+
+
 - Cross-Season Bundling: Bundle spring products with popular items from other seasons to boost sales. For example, pairing spring clothing with winter products can help drive sales.
 - Marketing Campaigns: Spring marketing campaigns may need more targeted efforts. Promotions can be tailored to specific consumer groups via social media, email marketing, and other channels to raise awareness and interest in spring products.
 - Limited-Time Promotions: Introduce limited-time offers during specific dates or holidays (e.g., Easter) in spring to encourage consumer purchases.
